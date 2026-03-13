@@ -23,7 +23,7 @@
 ```
 ```
 > Name     : Oliver Mondragon Reyes
-> Role     : Software Developer (soon to graduate)
+> Role     : Jr. Full Stack Developer | Systems Engineering Graduate (Soon)
 > OS       : Fedora Linux — yes I use Linux, no I won't shut up about it
 > Status   : Building things that hopefully don't break in prod
 > Focus    : Scalable systems | Mobile | Backend | Architecture
